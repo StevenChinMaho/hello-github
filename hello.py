@@ -1,1 +1,7 @@
-print("Hello " + input())
+for i in [1, 3, 5, 7, 9]:
+    print(i)
+
+'''
+range(1, 10, 2)
+[1, 3, 5, 7, 9]
+'''
